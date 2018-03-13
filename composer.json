@@ -1,0 +1,14 @@
+{
+    "name": "rliukshyn/php_training",
+    "type": "project",
+    "authors": [
+        {
+            "name": "rliukshyn",
+            "email": "roman.liukshyn@swarmingtech.com"
+        }
+    ],
+    "require": {
+        "knplabs/github-api": "^2.7",
+        "php-http/guzzle6-adapter": "^1.1"
+    }
+}
